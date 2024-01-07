@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Babar-Hussain404
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning .Net Core
+- 🌱 I’m currently learning MIUI.
 - 💞️ I’m looking to collaborate on ASP.NET Core
 - 📫 How to reach me ...
 
