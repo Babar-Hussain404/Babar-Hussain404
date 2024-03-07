@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning .NET MIUI.
 - 💞️ I’m looking to collaborate on ASP.NET Core
-- 📫 How to reach me ...
+- 📫 How to reach me babarhussain.bh21@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mbh_babar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/babar-hussain-47a6a01a5/) 
